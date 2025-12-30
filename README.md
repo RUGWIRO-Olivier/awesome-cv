@@ -3,7 +3,8 @@
 
 This repository contains a curated list of awesome resources that can help you with creating and customizing your Curriculum Vitae (CV).
 
-FYI, this list is in alphabetical order.
+> [!TIP]
+> This list is in alphabetical order.
 
 ## Table of Content
 
