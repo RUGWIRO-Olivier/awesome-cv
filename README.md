@@ -9,6 +9,7 @@ This repository contains a curated list of awesome resources that can help you w
 ## Table of Content
 
 [Curriculum Vitae](#curriculum-vitae)
+- [My contribution](#my-contribution)
 - [Drag-and-drop](#drag-and-drop)
 - [JavaScript/TypeScript](#javascripttypescript)
 - [Jekyll](#jekyll)
@@ -19,6 +20,10 @@ This repository contains a curated list of awesome resources that can help you w
 [Contributing](#contributing)
 
 ## Curriculum Vitae
+
+### My contribution
+
+- [NeatCV](https://github.com/smortezah/neatcv) - A clean, single-file, ATS-friendly CV template built with Typst.
 
 ### Drag-and-drop
 
